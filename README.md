@@ -2,11 +2,10 @@
 - Sou formada em Teatro pela Universidade Federal de Sergipe e atualmente estou migrando para a área de UX Design
 
  ##
-<div style="display: inline_block">
   <a href="https://github.com/GiseAzevedo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiseAzevedo&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiseAzevedo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
   <div style="display: inline_block"><br>
   <img align="center" alt="Gi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
