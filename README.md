@@ -1,6 +1,8 @@
+
+<div>
 👩‍🦰 Oii!! Eu sou a Giselle Azevedo
 - Sou formada em Teatro pela Universidade Federal de Sergipe e atualmente estou migrando para a área de UX Design
-
+</div>
 
   <div align="center">
  <a href="https://github.com/GiseAzevedo"></a>
