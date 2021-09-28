@@ -4,7 +4,7 @@
 - Sou formada em Teatro pela Universidade Federal de Sergipe e atualmente estou migrando para a área de UX Design
 </div>
 
-  <div align="center">
+  <div align="left">
  <a href="https://github.com/GiseAzevedo"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiseAzevedo&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiseAzevedo&layout=compact&langs_count=7&theme=dracula"/>
